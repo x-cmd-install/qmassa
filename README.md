@@ -7,7 +7,7 @@ Rust tools to monitor GPU stats on Linux
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-08-24
 - **License**: Apache-2.0
-- **Stars**: 108 · **Forks**: 7 · **Open issues**: 28 · **Contributors**: 9
+- **Stars**: 109 · **Forks**: 7 · **Open issues**: 28 · **Contributors**: 9
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/qmassa> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:53:05Z._
+_Last regenerated: 2026-09-09T20:07:17Z._
