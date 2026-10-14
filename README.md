@@ -20,7 +20,7 @@ Total: **9,258** lines of code across **34** files in the top 5 languages.
 |----------|-----:|---------:|-------:|------:|
 | Rust | 9,171 | 178 | 1,487 | 24 |
 | Toml | 87 | 0 | 9 | 4 |
-| Markdown | 0 | 517 | 227 | 6 |
+| Markdown | 0 | 527 | 237 | 6 |
 
 ## Source
 
@@ -34,18 +34,18 @@ Total: **9,258** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 0 · **Commits**: 333
+- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 0 · **Commits**: 336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-14 | 0 | 1 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-15 | 0 | 1 | 0 | 0 | 0 | 36 |
-| last180d | 2026-04-16 | 0 | 1 | 0 | 3 | 0 | 54 |
-| 360d | 2025-10-18 | 0 | 2 | 0 | 8 | 0 | 136 |
-| last720d | 2024-10-23 | 0 | 5 | 0 | 28 | 0 | 322 |
+| 30d | 2026-09-14 | 0 | 1 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-15 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-16 | 0 | 1 | 0 | 0 | 0 | 39 |
+| last180d | 2026-04-17 | 0 | 1 | 0 | 3 | 0 | 57 |
+| 360d | 2025-10-19 | 0 | 2 | 0 | 8 | 0 | 139 |
+| last720d | 2024-10-24 | 0 | 5 | 0 | 28 | 0 | 319 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for qmassa lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:45:02Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:42:40Z._
